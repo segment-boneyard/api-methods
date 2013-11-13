@@ -1,0 +1,14 @@
+{
+  "name": "api-methods",
+  "repo": "segmentio/api-methods",
+  "description": "The Segment.io API methods",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js"
+  ]
+}
