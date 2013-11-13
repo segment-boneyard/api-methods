@@ -1,0 +1,14 @@
+{
+  "name": "segmentio-api-methods",
+  "version": "0.0.1",
+  "description": "The segment.io API methods",
+  "keywords": [],
+  "author": "Segment.io <team@segment.io>",
+  "repository": { "type": "git", "url": "git://github.com/segmentio/api-methods.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
