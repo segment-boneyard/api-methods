@@ -2,7 +2,7 @@
   "name": "api-methods",
   "repo": "segmentio/api-methods",
   "description": "The Segment.io API methods",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [],
   "dependencies": {},
   "development": {},

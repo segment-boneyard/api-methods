@@ -1,6 +1,6 @@
 {
   "name": "segmentio-api-methods",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The segment.io API methods",
   "keywords": [],
   "author": "Segment.io <team@segment.io>",
